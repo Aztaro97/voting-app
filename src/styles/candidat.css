@@ -1,0 +1,29 @@
+.upBtn {
+    cursor: pointer;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.upBtn:hover {
+    color: rgb(0, 209, 70);
+}
+
+.Contener {
+    display: flex;
+    justify-content: center;
+}
+
+.itemRight {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.itemRight a {
+    font-weight: bold;
+}
+.Item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 10px 0;
+}   
