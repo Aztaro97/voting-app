@@ -4,7 +4,7 @@ const UserDetails =  [
     name: "Joe Bidden", 
     vote:22,
     title: "Democrat party",
-    urlImage:"https://wallpapercave.com/wp/wp6136191.jpg"
+    urlImage:"https://www.aljazeera.com/wp-content/uploads/2020/08/cdad9943b3564adbb0c4747ab7819375_18.jpeg?resize=770%2C513"
   },
   {
     id:2,

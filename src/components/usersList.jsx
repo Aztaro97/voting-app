@@ -35,7 +35,10 @@ const Userlist = () => {
 
     return (
         <div>
-            <h1 className="text-center mb-1 text-light py-2 bg-dark">USA election 2020</h1>
+            <div className="bg-dark text-white py-2 text-center">
+                <h1 className="mb-1 text-light">USA election 2020</h1>
+                <p>Choose your favourite president </p>
+            </div>
             {List} 
         </div>
     )
